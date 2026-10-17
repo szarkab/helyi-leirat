@@ -15,7 +15,9 @@ A kipróbált gép Apple M5, 32 GB memória, macOS 27.0.1. Más hardveren a feld
 
 ## Letöltés és telepítés
 
-A GitHub-repozitórium **Releases** részében a DMG-t töltsd le. A **Code → Download ZIP** a forráskódot tartalmazza, nem telepítő. A kész apphoz Python, Homebrew és fordítás nem szükséges.
+**[Helyi leirat letöltése Apple Silicon Macre (.dmg)](https://github.com/szarkab/helyi-leirat/releases/download/v0.3.0/Helyi-leirat-0.3.0-apple-silicon-local.dmg)**
+
+A kész alkalmazás használatához Python, Homebrew és fordítás nem szükséges.
 
 1. Nyisd meg a `Helyi-leirat-0.3.0-apple-silicon-local.dmg` fájlt.
 2. Húzd a **Helyi leirat** alkalmazást az **Applications** mappába.
